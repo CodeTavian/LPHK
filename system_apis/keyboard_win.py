@@ -224,6 +224,9 @@ key_map = {
     "'": 0xDE,
     "\\": 0xDC,
     "`": 0xC0,
+    "divide": 0x6F,
+    "multiply": 0x6A,
+    "subtract": 0x6D,
 
     # very special keys
     "clear": 0x0C,
